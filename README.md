@@ -4,13 +4,10 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Higher Technician in Web Application Development
-
-💻 Junior backend developer focused on clean architecture, database design, and performance optimization.
-
-📝 Roles within the field: Backend developer, freelance programmer, entrepreneur, and mentor to junior developers.
-
-📫 Contact: **ferferjose99@gmail.com**
+🎓 Higher Technician in Web Application Development<br>
+💻 Junior backend developer focused on clean architecture, database modeling, and performance optimization.<br>
+🧑‍🏫 Roles in the field: Backend developer, freelance programmer, entrepreneur, and mentor to junior developers.<br>
+📫 Reach me at: <strong>ferferjose99@gmail.com</strong>
 <!--Intro end-->
   </p>
 <br>
