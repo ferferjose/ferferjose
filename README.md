@@ -10,16 +10,32 @@
 📫 Reach me at: <strong>ferferjose99@gmail.com</strong>
 <!--Intro end-->
   </p>
-<br>
+<hr>
+<h2>🌐 Portfolio</h2>
+<p>
+Check out my personal portfolio to see more about me, detailed project breakdowns, and ways to get in touch:<br>
+🔗 <a href="https://ferferjose.github.io/portfolio/" target="_blank">Here</a>
+</p>
 
 <h2 >Technologies I'm familiar with:👨🏻‍💻</h2>
 <p align="left">
-Here are some of the tools and technologies I work with regularly:
+Here are some of the tools and technologies I work with regularly, grouped by category:
 </p>
-<!--tech stack icons-->
+
+<!-- Tech stack with categories -->
+<ul>
+  <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, JavaScript, TypeScript</li>
+  <li><strong>Backend:</strong> PHP, Laravel</li>
+  <li><strong>Database:</strong> MySQL</li>
+  <li><strong>Tools:</strong> Git, GitHub, Postman, Figma</li>
+  <li><strong>IDE:</strong> Visual Studio Code, Eclipse</li>
+  <li><strong>Other Languages (learned academically):</strong> C, Java</li>
+</ul>
+
+<!-- Skill icons visual -->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,c,java,php,laravel,mysql,figma,git,github,postman,eclipse,vscode&perline=12" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,c,java,php,laravel,mysql,figma,git,github,postman,eclipse,vscode&perline=12" alt="My tech stack" />
   </a>
 </p>
 <br>
