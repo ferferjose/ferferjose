@@ -1,6 +1,5 @@
 <h1 align="center">Hi! 👋  I' m Fernando ✨ </h1> 
 
-<br>
 <h2>About me 😃</h2>
 <!--Intro start-->
 
