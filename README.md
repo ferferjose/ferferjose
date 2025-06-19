@@ -14,7 +14,7 @@
 <h2>🌐 Portfolio</h2>
 <p>
 Check out my personal portfolio to see more about me, detailed project breakdowns, and ways to get in touch:<br>
-🔗 <a href="https://ferferjose.github.io/portfolio/" target="_blank">Here</a>
+🔗 <a href="[https://ferferjose.github.io/portfolio/](https://ferferjose.github.io/fernandojgb.dev/)" target="_blank">Here</a>
 </p>
 
 <h2 >Technologies I'm familiar with:👨🏻‍💻</h2>
