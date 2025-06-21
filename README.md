@@ -79,7 +79,8 @@ Here are some of the tools and technologies I work with regularly, grouped by ca
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ferferjose&theme=dark&hide_border=false" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ferferjose&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
 </td>
 
 <td width="40%" align="center">
